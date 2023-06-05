@@ -60,6 +60,7 @@ _editables:
     table: true
     undo: true
     redo: true
+    snippet: true
     
 # Import all shortcodes by default,
 # but exclude the embed shortcode:
