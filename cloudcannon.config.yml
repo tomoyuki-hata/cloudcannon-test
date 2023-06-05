@@ -49,3 +49,15 @@ source_editor:
 # Timezone of your site in IANA format. This is used by date and datetime inputs
 # within the CloudCannon Data Editor.
 timezone: Etc/UTC
+
+_editables:
+  content:
+    bold: true
+    italic: true
+    bulletlist: true
+    numberedlist: true
+    image: true
+    table: true
+    undo: true
+    redo: true
+    
