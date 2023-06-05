@@ -59,4 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 
-<img src="/uploads/naxos-ge4bbfc0c3-1280-1.jpg" width="1280" height="853" />
+# My Post
+
+{{< tint "#ff0000" >}}This text should be red{{< /tint >}}
+
