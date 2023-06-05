@@ -5,3 +5,7 @@
          {{ .Content | replaceRE "(<table>(?:.|\n)+?</table>)" $wrappedTable | safeHTML }}
     </div>
 </section>
+
+<div class="content">
+    {{ .Content }}
+</div>
