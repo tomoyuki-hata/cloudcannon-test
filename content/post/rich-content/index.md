@@ -11,6 +11,8 @@ tags = [ "shortcodes", "privacy" ]
 
 {{< youtube id="ZJthWmvUzzc" >}}
 
+<img width="1280" height="853" src="/uploads/naxos-ge4bbfc0c3-1280-3.jpg" />
+
 ---
 
 ## Twitter Simple Shortcode
@@ -22,8 +24,6 @@ tags = [ "shortcodes", "privacy" ]
 ## added title
 
 ![フクロウ](/uploads/naxos-ge4bbfc0c3-1280.jpg)
-
-
 
 ## Vimeo Simple Shortcode
 
